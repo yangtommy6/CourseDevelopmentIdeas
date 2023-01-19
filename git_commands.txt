@@ -1,0 +1,43 @@
+    1  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    2  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   42  git
+   43  git --version
+   45  brew upgrade git
+   46  git
+   47  git --version
+   57  git config -- user.name"yangtommy6"
+   58  git config --global user.name"yangtommy6"
+   59  git config --global user.email"shiningheart0728@gmail.com"
+   61  git branch
+   62  git pull origin main
+   67  git init
+   71  git add .
+   72  git commit -m "First Commit"
+   73  git commit -m "first commend"
+   74  git config --global user.name "yangtommy6"
+   75  git config --global user.email "shiningheart0728@gmail.com"
+   76  git commit -m "first commend"
+   78  git log
+   79  git status
+   80  git status
+   81  git status
+   82  git add .
+   83  git status
+   84  git restore --staged .
+   85  git status
+   86  git restore 
+   87  git restore .
+   88  git status
+   89  git restore .
+   91  git status
+   93  git config user.name
+   94  git config --global core.editor "code -wait"
+   95  git config --global init.defaultBranch main
+  105  git status
+  113  git init
+  114  git status
+  117  git init
+  118  git status
+  120  git add statistics.txt
+  121  git --version
+  123  git init
