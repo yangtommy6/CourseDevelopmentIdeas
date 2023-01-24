@@ -41,3 +41,50 @@
   120  git add statistics.txt
   121  git --version
   123  git init
+  125  history 0 | grep "git" > git_commands.txt
+  133  git status
+  134  git add .
+  135  git add stats.txt
+  137  git add stats.txt
+  138  git commit -m
+  139  git commit -m "stats"
+  140  git status
+  142  git status
+  143  git add .
+  144  git commit -m "add"
+  145  git status
+  147  git status
+  148  git add history.txt
+  149  git commit -m
+  150  git commit -m "add history"
+  151  git status
+  152  git log
+  153  touch practice.gitingore
+  155  git add -a
+  156  git status
+  157  git status
+  158  git add .
+  159  git commit -m "ignore"
+  160  git status
+  162  git add .
+  163  git commit -m "try"
+  164  git status
+  170  git status
+  172  git status
+  173  git status
+  174  git add .
+  175  git commit -m "ignore"
+  176  git status
+  177  git status
+  178  git add .
+  179  git commit -m
+  180  git commit -m "okay"
+  181  git status
+  182  git status
+  183  git add .
+  184  git commit -m "asdsa"
+  185  git status
+  186  git add .
+  187  git commit -m -a "efe"
+  188  git commit -a -m "qef"
+  189  git status

@@ -1,5 +1,5 @@
-Curriculum Ideas
+Ideas for curriculum: 
 
-- 1
-- 2
-- 3
+    - Mean and standard deviation
+    - Regression
+    - Bayes Theorm
